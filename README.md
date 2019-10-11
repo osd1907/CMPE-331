@@ -1,3 +1,4 @@
 # CMPE-331
-example
-author is osd1907
+CMPE 331
+Author berkayyldirim
+Author is osd1907
